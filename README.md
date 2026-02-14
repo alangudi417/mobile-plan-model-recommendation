@@ -50,10 +50,8 @@ The project follows a structured Machine Learning workflow:
         - Lowest performance among the three models
         - Still exceeded the required threshold
 
-- Conclusion
-All three models surpassed the required accuracy threshold of 0.75.
-However, the Random Forest Classifier achieved the highest accuracy and demonstrated superior predictive performance.
-Therefore, Random Forest is recommended as the optimal model for Megaline to accurately predict the most suitable plan for each customer, supporting data-driven decision-making and improving customer targeting.
+- Conclusion <br>
+    - All three models surpassed the required accuracy threshold of 0.75.However, the Random Forest Classifier achieved the highest accuracy and demonstrated superior predictive performance. Therefore, Random Forest is recommended as the optimal model for Megaline to accurately predict the most suitable plan for each customer, supporting data-driven decision-making and improving customer targeting.
 
 ## ▶️ How to Run the Project
 1.	Clone this repository: git clone https://github.com/alangudi417/mobile-plan-model-recommendation.git  
