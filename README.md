@@ -22,6 +22,63 @@ The business needs to answer questions such as:
 
 Without a predictive solution, Megaline risks recommending plans that do not align with customer usage, potentially affecting customer satisfaction, retention, and revenue opportunities.
 
+## ⚙️ Skills Developed
+
+#### 🛠️ Tools
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Jupyter` `Matplotlib` `Git` `GitHub`
+
+#### Data Analysis & Preparation
+- Exploratory Data Analysis (EDA)
+- Behavioral Data Analysis
+- Data Cleaning & Validation
+- Feature Analysis
+- Data Preparation for Machine Learning
+- Train / Validation / Test Data Splitting
+
+#### Machine Learning
+- Supervised Learning
+- Binary Classification
+- Decision Tree Classifier
+- Random Forest Classifier
+- Logistic Regression
+- Model Training
+- Model Prediction
+
+#### Model Development
+- Feature Selection
+- Hyperparameter Tuning
+- Model Configuration
+- Model Training & Validation
+- Algorithm Comparison
+- Model Performance Optimization
+
+#### Model Evaluation
+- Accuracy Score
+- Validation Performance Analysis
+- Test Set Evaluation
+- Model Comparison
+- Performance Benchmarking
+- Model Selection
+- Minimum Performance Threshold Validation
+
+#### Predictive Analytics
+- Customer Behavior Prediction
+- Mobile Plan Recommendation
+- Usage Pattern Analysis
+- Customer Segmentation by Behavior
+- Predictive Modeling
+- Automated Plan Recommendation
+
+#### Business Analytics
+- Business Problem Translation
+- Customer Targeting
+- Plan Recommendation Strategy
+- Data-Driven Decision Making
+- Customer Usage Analysis
+- Predictive Decision Support
+- Business-Oriented Model Selection
+
 ## 📊 Dataset Description
 The dataset contains behavioral data from Megaline subscribers, including:
 - Number of calls
