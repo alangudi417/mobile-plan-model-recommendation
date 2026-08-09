@@ -6,6 +6,22 @@ Using behavioral data from subscribers who have already migrated to the new plan
 The dataset was preprocessed beforehand, allowing this project to focus on model development, training, and evaluation.
 The primary objective is to achieve the highest possible predictive accuracy, with a minimum required threshold of 0.75.
 
+## 💼 Business Problem
+
+Megaline is transitioning customers from its legacy mobile plans to two newer plans: Smart and Ultra. However, customers have different communication and data-consumption patterns, making it difficult to determine which plan is most appropriate for each subscriber.
+
+Without a data-driven recommendation approach, plan upgrades may rely on broad customer segments or manual assumptions, which can result in customers being assigned to plans that do not match their actual usage.
+
+The business needs to answer questions such as:
+- Which mobile plan is most suitable for each customer?
+- What usage patterns differentiate Smart customers from Ultra customers?
+- Can a customer's calling, messaging, and internet usage predict the plan they are most likely to need?
+- Which legacy-plan customers are likely to benefit from migrating to Smart or Ultra?
+- How accurately can customer behavior be used to automate plan recommendations?
+- Can Megaline improve customer targeting while reducing the need for manual plan recommendations?
+
+Without a predictive solution, Megaline risks recommending plans that do not align with customer usage, potentially affecting customer satisfaction, retention, and revenue opportunities.
+
 ## 📊 Dataset Description
 The dataset contains behavioral data from Megaline subscribers, including:
 - Number of calls
